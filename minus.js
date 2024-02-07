@@ -1,3 +1,3 @@
-exports.minus = (a, b) {
+exports.minus = (a, b) => {
     return a - b
 }

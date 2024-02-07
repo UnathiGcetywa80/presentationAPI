@@ -1,3 +1,3 @@
-exports.multipy = (a, b) {
+exports.multiply = (a, b) =>{
     return a * b
 }
